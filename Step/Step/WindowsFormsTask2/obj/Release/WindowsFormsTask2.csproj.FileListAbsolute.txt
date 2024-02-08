@@ -1,0 +1,15 @@
+E:\Code\Visual Studio\Step\WindowsFormsTask2\bin\Release\WindowsFormsTask2.exe.config
+E:\Code\Visual Studio\Step\WindowsFormsTask2\bin\Release\WindowsFormsTask2.exe
+E:\Code\Visual Studio\Step\WindowsFormsTask2\bin\Release\WindowsFormsTask2.pdb
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Release\WindowsFormsTask2.Properties.Resources.resources
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Release\WindowsFormsTask2.csproj.GenerateResource.cache
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Release\WindowsFormsTask2.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Release\WindowsFormsTask2.exe
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Release\WindowsFormsTask2.pdb
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Release\WindowsFormsTask2.Form1.resources
+E:\Code\Visual Studio\Step\WindowsFormsTask2\bin\Release\Interop.WMPLib.dll
+E:\Code\Visual Studio\Step\WindowsFormsTask2\bin\Release\AxInterop.WMPLib.dll
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Release\WindowsFormsTask2.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Release\Interop.WMPLib.dll
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Release\AxInterop.WMPLib.dll
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Release\WindowsFormsTask2.csproj.ResolveComReference.cache

@@ -1,0 +1,8 @@
+E:\С#\shape\shape\bin\Debug\shape.exe.config
+E:\С#\shape\shape\bin\Debug\shape.exe
+E:\С#\shape\shape\bin\Debug\shape.pdb
+E:\С#\shape\shape\obj\Debug\shape.csproj.AssemblyReference.cache
+E:\С#\shape\shape\obj\Debug\shape.csproj.SuggestedBindingRedirects.cache
+E:\С#\shape\shape\obj\Debug\shape.csproj.CoreCompileInputs.cache
+E:\С#\shape\shape\obj\Debug\shape.exe
+E:\С#\shape\shape\obj\Debug\shape.pdb

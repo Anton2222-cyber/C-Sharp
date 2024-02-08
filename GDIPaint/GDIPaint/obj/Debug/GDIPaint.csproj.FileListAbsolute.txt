@@ -1,0 +1,10 @@
+E:\С#\GDIPaint\GDIPaint\bin\Debug\GDIPaint.exe.config
+E:\С#\GDIPaint\GDIPaint\bin\Debug\GDIPaint.exe
+E:\С#\GDIPaint\GDIPaint\bin\Debug\GDIPaint.pdb
+E:\С#\GDIPaint\GDIPaint\obj\Debug\GDIPaint.csproj.AssemblyReference.cache
+E:\С#\GDIPaint\GDIPaint\obj\Debug\GDIPaint.Properties.Resources.resources
+E:\С#\GDIPaint\GDIPaint\obj\Debug\GDIPaint.csproj.GenerateResource.cache
+E:\С#\GDIPaint\GDIPaint\obj\Debug\GDIPaint.csproj.CoreCompileInputs.cache
+E:\С#\GDIPaint\GDIPaint\obj\Debug\GDIPaint.exe
+E:\С#\GDIPaint\GDIPaint\obj\Debug\GDIPaint.pdb
+E:\С#\GDIPaint\GDIPaint\obj\Debug\GDIPaint.MyPaint2.resources

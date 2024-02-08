@@ -1,0 +1,10 @@
+E:\С#\FileManager\FileManager\bin\Debug\FileManager.exe.config
+E:\С#\FileManager\FileManager\bin\Debug\FileManager.exe
+E:\С#\FileManager\FileManager\bin\Debug\FileManager.pdb
+E:\С#\FileManager\FileManager\obj\Debug\FileManager.csproj.AssemblyReference.cache
+E:\С#\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+E:\С#\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+E:\С#\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+E:\С#\FileManager\FileManager\obj\Debug\FileManager.exe
+E:\С#\FileManager\FileManager\obj\Debug\FileManager.pdb
+E:\С#\FileManager\FileManager\obj\Debug\FileManager.FileManager.resources

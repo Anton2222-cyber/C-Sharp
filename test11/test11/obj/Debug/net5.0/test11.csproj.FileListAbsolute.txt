@@ -1,0 +1,16 @@
+E:\С#\test11\test11\bin\Debug\net5.0\test11.exe
+E:\С#\test11\test11\bin\Debug\net5.0\test11.deps.json
+E:\С#\test11\test11\bin\Debug\net5.0\test11.runtimeconfig.json
+E:\С#\test11\test11\bin\Debug\net5.0\test11.runtimeconfig.dev.json
+E:\С#\test11\test11\bin\Debug\net5.0\test11.dll
+E:\С#\test11\test11\bin\Debug\net5.0\ref\test11.dll
+E:\С#\test11\test11\bin\Debug\net5.0\test11.pdb
+E:\С#\test11\test11\obj\Debug\net5.0\test11.csproj.AssemblyReference.cache
+E:\С#\test11\test11\obj\Debug\net5.0\test11.GeneratedMSBuildEditorConfig.editorconfig
+E:\С#\test11\test11\obj\Debug\net5.0\test11.AssemblyInfoInputs.cache
+E:\С#\test11\test11\obj\Debug\net5.0\test11.AssemblyInfo.cs
+E:\С#\test11\test11\obj\Debug\net5.0\test11.csproj.CoreCompileInputs.cache
+E:\С#\test11\test11\obj\Debug\net5.0\test11.dll
+E:\С#\test11\test11\obj\Debug\net5.0\ref\test11.dll
+E:\С#\test11\test11\obj\Debug\net5.0\test11.pdb
+E:\С#\test11\test11\obj\Debug\net5.0\test11.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\С#\fortesting\fortesting\obj\Debug\net5.0\fortesting.csproj.AssemblyReference.cache
+E:\С#\fortesting\fortesting\obj\Debug\net5.0\fortesting.GeneratedMSBuildEditorConfig.editorconfig
+E:\С#\fortesting\fortesting\obj\Debug\net5.0\fortesting.AssemblyInfoInputs.cache
+E:\С#\fortesting\fortesting\obj\Debug\net5.0\fortesting.AssemblyInfo.cs
+E:\С#\fortesting\fortesting\obj\Debug\net5.0\fortesting.csproj.CoreCompileInputs.cache
+E:\С#\fortesting\fortesting\bin\Debug\net5.0\fortesting.exe
+E:\С#\fortesting\fortesting\bin\Debug\net5.0\fortesting.deps.json
+E:\С#\fortesting\fortesting\bin\Debug\net5.0\fortesting.runtimeconfig.json
+E:\С#\fortesting\fortesting\bin\Debug\net5.0\fortesting.runtimeconfig.dev.json
+E:\С#\fortesting\fortesting\bin\Debug\net5.0\fortesting.dll
+E:\С#\fortesting\fortesting\bin\Debug\net5.0\ref\fortesting.dll
+E:\С#\fortesting\fortesting\bin\Debug\net5.0\fortesting.pdb
+E:\С#\fortesting\fortesting\obj\Debug\net5.0\fortesting.dll
+E:\С#\fortesting\fortesting\obj\Debug\net5.0\ref\fortesting.dll
+E:\С#\fortesting\fortesting\obj\Debug\net5.0\fortesting.pdb
+E:\С#\fortesting\fortesting\obj\Debug\net5.0\fortesting.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+E:\Code\Visual Studio\Step\WindowsFormsTask1\bin\Debug\WindowsFormsTask1.exe.config
+E:\Code\Visual Studio\Step\WindowsFormsTask1\bin\Debug\WindowsFormsTask1.exe
+E:\Code\Visual Studio\Step\WindowsFormsTask1\bin\Debug\WindowsFormsTask1.pdb
+E:\Code\Visual Studio\Step\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\Step\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.Form1.resources
+E:\Code\Visual Studio\Step\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.Properties.Resources.resources
+E:\Code\Visual Studio\Step\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.csproj.GenerateResource.cache
+E:\Code\Visual Studio\Step\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\Step\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.exe
+E:\Code\Visual Studio\Step\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.pdb
+E:\С#\Step\Step\WindowsFormsTask1\bin\Debug\WindowsFormsTask1.exe.config
+E:\С#\Step\Step\WindowsFormsTask1\bin\Debug\WindowsFormsTask1.exe
+E:\С#\Step\Step\WindowsFormsTask1\bin\Debug\WindowsFormsTask1.pdb
+E:\С#\Step\Step\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.csproj.AssemblyReference.cache
+E:\С#\Step\Step\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.csproj.SuggestedBindingRedirects.cache
+E:\С#\Step\Step\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.Form1.resources
+E:\С#\Step\Step\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.Properties.Resources.resources
+E:\С#\Step\Step\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.csproj.GenerateResource.cache
+E:\С#\Step\Step\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.csproj.CoreCompileInputs.cache
+E:\С#\Step\Step\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.exe
+E:\С#\Step\Step\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.pdb

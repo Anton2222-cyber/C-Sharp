@@ -1,0 +1,11 @@
+E:\С#\SearchFile\SearchFile\bin\Debug\SearchFile.exe.config
+E:\С#\SearchFile\SearchFile\bin\Debug\SearchFile.exe
+E:\С#\SearchFile\SearchFile\bin\Debug\SearchFile.pdb
+E:\С#\SearchFile\SearchFile\obj\Debug\SearchFile.csproj.AssemblyReference.cache
+E:\С#\SearchFile\SearchFile\obj\Debug\SearchFile.Form1.resources
+E:\С#\SearchFile\SearchFile\obj\Debug\SearchFile.Properties.Resources.resources
+E:\С#\SearchFile\SearchFile\obj\Debug\SearchFile.csproj.GenerateResource.cache
+E:\С#\SearchFile\SearchFile\obj\Debug\SearchFile.csproj.CoreCompileInputs.cache
+E:\С#\SearchFile\SearchFile\obj\Debug\SearchFile.exe
+E:\С#\SearchFile\SearchFile\obj\Debug\SearchFile.pdb
+E:\С#\SearchFile\SearchFile\obj\Debug\SearchFile.Form2.resources

@@ -1,0 +1,12 @@
+E:\С#\GDI_Graphic\GDI_Graphic\bin\Debug\GDI_Graphic.exe.config
+E:\С#\GDI_Graphic\GDI_Graphic\bin\Debug\GDI_Graphic.exe
+E:\С#\GDI_Graphic\GDI_Graphic\bin\Debug\GDI_Graphic.pdb
+E:\С#\GDI_Graphic\GDI_Graphic\obj\Debug\GDI_Graphic.csproj.AssemblyReference.cache
+E:\С#\GDI_Graphic\GDI_Graphic\obj\Debug\GDI_Graphic.Properties.Resources.resources
+E:\С#\GDI_Graphic\GDI_Graphic\obj\Debug\GDI_Graphic.csproj.GenerateResource.cache
+E:\С#\GDI_Graphic\GDI_Graphic\obj\Debug\GDI_Graphic.csproj.CoreCompileInputs.cache
+E:\С#\GDI_Graphic\GDI_Graphic\obj\Debug\GDI_Graphic.exe
+E:\С#\GDI_Graphic\GDI_Graphic\obj\Debug\GDI_Graphic.pdb
+E:\С#\GDI_Graphic\GDI_Graphic\obj\Debug\GDI_Graphic.MyGraphic.resources
+E:\С#\GDI_Graphic\GDI_Graphic\obj\Debug\GDI_Graphic.Menu.resources
+E:\С#\GDI_Graphic\GDI_Graphic\obj\Debug\GDI_Graphic.Diagram.resources

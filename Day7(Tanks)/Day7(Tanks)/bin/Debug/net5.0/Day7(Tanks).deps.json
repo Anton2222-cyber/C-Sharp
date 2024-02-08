@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Day7(Tanks)/1.0.0": {
+        "dependencies": {
+          "MyClassLib": "1.0.0.0"
+        },
+        "runtime": {
+          "Day7(Tanks).dll": {}
+        }
+      },
+      "MyClassLib/1.0.0.0": {
+        "runtime": {
+          "MyClassLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day7(Tanks)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyClassLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

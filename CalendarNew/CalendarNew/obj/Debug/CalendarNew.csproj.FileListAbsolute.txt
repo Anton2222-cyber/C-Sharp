@@ -1,0 +1,10 @@
+E:\С#\CalendarNew\CalendarNew\bin\Debug\CalendarNew.exe.config
+E:\С#\CalendarNew\CalendarNew\bin\Debug\CalendarNew.exe
+E:\С#\CalendarNew\CalendarNew\bin\Debug\CalendarNew.pdb
+E:\С#\CalendarNew\CalendarNew\obj\Debug\CalendarNew.csproj.AssemblyReference.cache
+E:\С#\CalendarNew\CalendarNew\obj\Debug\CalendarNew.Registration.resources
+E:\С#\CalendarNew\CalendarNew\obj\Debug\CalendarNew.Properties.Resources.resources
+E:\С#\CalendarNew\CalendarNew\obj\Debug\CalendarNew.csproj.GenerateResource.cache
+E:\С#\CalendarNew\CalendarNew\obj\Debug\CalendarNew.csproj.CoreCompileInputs.cache
+E:\С#\CalendarNew\CalendarNew\obj\Debug\CalendarNew.exe
+E:\С#\CalendarNew\CalendarNew\obj\Debug\CalendarNew.pdb

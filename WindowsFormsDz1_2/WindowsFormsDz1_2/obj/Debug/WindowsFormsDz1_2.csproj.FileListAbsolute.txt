@@ -1,0 +1,10 @@
+E:\С#\WindowsFormsDz1_2\WindowsFormsDz1_2\bin\Debug\WindowsFormsDz1_2.exe.config
+E:\С#\WindowsFormsDz1_2\WindowsFormsDz1_2\bin\Debug\WindowsFormsDz1_2.exe
+E:\С#\WindowsFormsDz1_2\WindowsFormsDz1_2\bin\Debug\WindowsFormsDz1_2.pdb
+E:\С#\WindowsFormsDz1_2\WindowsFormsDz1_2\obj\Debug\WindowsFormsDz1_2.csproj.AssemblyReference.cache
+E:\С#\WindowsFormsDz1_2\WindowsFormsDz1_2\obj\Debug\WindowsFormsDz1_2.Form1.resources
+E:\С#\WindowsFormsDz1_2\WindowsFormsDz1_2\obj\Debug\WindowsFormsDz1_2.Properties.Resources.resources
+E:\С#\WindowsFormsDz1_2\WindowsFormsDz1_2\obj\Debug\WindowsFormsDz1_2.csproj.GenerateResource.cache
+E:\С#\WindowsFormsDz1_2\WindowsFormsDz1_2\obj\Debug\WindowsFormsDz1_2.csproj.CoreCompileInputs.cache
+E:\С#\WindowsFormsDz1_2\WindowsFormsDz1_2\obj\Debug\WindowsFormsDz1_2.exe
+E:\С#\WindowsFormsDz1_2\WindowsFormsDz1_2\obj\Debug\WindowsFormsDz1_2.pdb

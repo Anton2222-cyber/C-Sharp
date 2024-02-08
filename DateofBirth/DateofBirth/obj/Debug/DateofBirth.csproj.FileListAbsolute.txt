@@ -1,0 +1,10 @@
+E:\С#\DateofBirth\DateofBirth\bin\Debug\DateofBirth.exe.config
+E:\С#\DateofBirth\DateofBirth\bin\Debug\DateofBirth.exe
+E:\С#\DateofBirth\DateofBirth\bin\Debug\DateofBirth.pdb
+E:\С#\DateofBirth\DateofBirth\obj\Debug\DateofBirth.csproj.AssemblyReference.cache
+E:\С#\DateofBirth\DateofBirth\obj\Debug\DateofBirth.Form1.resources
+E:\С#\DateofBirth\DateofBirth\obj\Debug\DateofBirth.Properties.Resources.resources
+E:\С#\DateofBirth\DateofBirth\obj\Debug\DateofBirth.csproj.GenerateResource.cache
+E:\С#\DateofBirth\DateofBirth\obj\Debug\DateofBirth.csproj.CoreCompileInputs.cache
+E:\С#\DateofBirth\DateofBirth\obj\Debug\DateofBirth.exe
+E:\С#\DateofBirth\DateofBirth\obj\Debug\DateofBirth.pdb

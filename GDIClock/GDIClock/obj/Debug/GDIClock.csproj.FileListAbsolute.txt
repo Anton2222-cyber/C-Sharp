@@ -1,0 +1,10 @@
+E:\С#\GDIClock\GDIClock\bin\Debug\GDIClock.exe.config
+E:\С#\GDIClock\GDIClock\bin\Debug\GDIClock.exe
+E:\С#\GDIClock\GDIClock\bin\Debug\GDIClock.pdb
+E:\С#\GDIClock\GDIClock\obj\Debug\GDIClock.csproj.AssemblyReference.cache
+E:\С#\GDIClock\GDIClock\obj\Debug\GDIClock.Clock.resources
+E:\С#\GDIClock\GDIClock\obj\Debug\GDIClock.Properties.Resources.resources
+E:\С#\GDIClock\GDIClock\obj\Debug\GDIClock.csproj.GenerateResource.cache
+E:\С#\GDIClock\GDIClock\obj\Debug\GDIClock.csproj.CoreCompileInputs.cache
+E:\С#\GDIClock\GDIClock\obj\Debug\GDIClock.exe
+E:\С#\GDIClock\GDIClock\obj\Debug\GDIClock.pdb

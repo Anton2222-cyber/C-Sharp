@@ -1,0 +1,5 @@
+E:\С#\DzAcademy\DzAcademy\obj\Debug\netcoreapp3.1\Day7(Tanks).csproj.AssemblyReference.cache
+E:\С#\DzAcademy\DzAcademy\obj\Debug\netcoreapp3.1\Day7(Tanks).GeneratedMSBuildEditorConfig.editorconfig
+E:\С#\DzAcademy\DzAcademy\obj\Debug\netcoreapp3.1\Day7(Tanks).AssemblyInfoInputs.cache
+E:\С#\DzAcademy\DzAcademy\obj\Debug\netcoreapp3.1\Day7(Tanks).AssemblyInfo.cs
+E:\С#\DzAcademy\DzAcademy\obj\Debug\netcoreapp3.1\Day7(Tanks).csproj.CoreCompileInputs.cache

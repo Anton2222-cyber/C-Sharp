@@ -1,0 +1,111 @@
+using System;
+
+namespace test11
+{
+   class Money
+    {
+        protected int wholepart;
+        protected int fractionalpart;
+        protected string formatwhole;
+        protected string formatfractional;
+        public int Wholepart
+        {
+            set{ this.wholepart = value; }
+            get{ return this.wholepart; }
+        }
+        public int Fractionalpart
+        {
+            set { this.fractionalpart = value; }
+            get { return this.fractionalpart; }
+        }
+        public string Formatwhole
+        {
+            set { this.formatwhole = value; }
+            get { return this.formatwhole; }
+        }
+        public string Formatfractional
+        {
+            set { this.formatfractional = value; }
+            get { return this.formatfractional; }
+        }
+        public Money(int wholepart, int fractionalpart, string formatwhole, string formatfractional)
+        {
+            this.fractionalpart = fractionalpart;
+            this.wholepart = wholepart;
+            this.formatwhole = formatwhole;
+            this.formatfractional = formatfractional;
+        }
+        public Money()
+        {
+            this.fractionalpart = 0;
+            this.wholepart = 0;
+            this.formatwhole = "unknown";
+            this.formatfractional = "unknown";
+        }
+        public void PrintInfo()
+        {
+            Console.WriteLine(wholepart + " " + formatwhole + " " + fractionalpart + " " + formatfractional);
+        }
+    }
+    class Product:Money
+    {
+        string name;
+        string material;
+        public string Name
+        {
+            set { this.name = value; }
+            get { return this.name; }
+        }
+        public string Material
+        {
+            set { this.material = value; }
+            get { return this.material; }
+        }
+        public Product(string name, string material,int wholepart, int fractionalpart, string formatwhole, string formatfractional):base(wholepart,fractionalpart,formatwhole,formatfractional)
+        {
+            this.name = name;
+            this.material = material;
+        }
+        public void PrintInfo()
+        {
+            Console.WriteLine(name);
+            Console.WriteLine("Матеріал: " + material);
+            base.PrintInfo();
+        }
+        public void ReducePrice(int wholepart, int fractionalpart)
+        {
+            int moneybasic = this.wholepart * 100 + this.fractionalpart;
+            int moneyreduce = wholepart * 100 + fractionalpart;
+            if (moneybasic > moneyreduce)
+            {
+                
+                moneybasic -= moneyreduce;
+                this.wholepart = moneybasic / 100;
+                this.fractionalpart = moneybasic % 100;
+            }
+            else
+                Console.WriteLine("Суму скидки більша за ціну продукта");
+        }
+    }
+    class Program
+    {
+
+        public static void Main()
+        {
+            System.Console.OutputEncoding = System.Text.Encoding.UTF8;
+            Money money=new Money();
+            money.Wholepart = 12;
+            money.Fractionalpart = 99;
+            money.Formatwhole = "Dolars";
+            money.Formatfractional = "cent";
+            money.PrintInfo();
+            Console.WriteLine("------------------------------------");
+            Product product = new Product("Iphone 14", "titan", 1499, 98, "dolars", "cent");
+            product.PrintInfo();
+            Console.WriteLine("------------------------------------");
+            product.ReducePrice(100, 99);
+            product.PrintInfo();
+        }
+
+    }
+}

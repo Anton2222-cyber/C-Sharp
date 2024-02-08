@@ -1,0 +1,9 @@
+E:\Code\Visual Studio\Step\WindowsFormsTask1\bin\Release\WindowsFormsTask1.exe.config
+E:\Code\Visual Studio\Step\WindowsFormsTask1\bin\Release\WindowsFormsTask1.exe
+E:\Code\Visual Studio\Step\WindowsFormsTask1\bin\Release\WindowsFormsTask1.pdb
+E:\Code\Visual Studio\Step\WindowsFormsTask1\obj\Release\WindowsFormsTask1.Form1.resources
+E:\Code\Visual Studio\Step\WindowsFormsTask1\obj\Release\WindowsFormsTask1.Properties.Resources.resources
+E:\Code\Visual Studio\Step\WindowsFormsTask1\obj\Release\WindowsFormsTask1.csproj.GenerateResource.cache
+E:\Code\Visual Studio\Step\WindowsFormsTask1\obj\Release\WindowsFormsTask1.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\Step\WindowsFormsTask1\obj\Release\WindowsFormsTask1.exe
+E:\Code\Visual Studio\Step\WindowsFormsTask1\obj\Release\WindowsFormsTask1.pdb

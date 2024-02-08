@@ -1,0 +1,10 @@
+E:\С#\MyPaint2\MyPaint2\bin\Debug\MyPaint2.exe.config
+E:\С#\MyPaint2\MyPaint2\bin\Debug\MyPaint2.exe
+E:\С#\MyPaint2\MyPaint2\bin\Debug\MyPaint2.pdb
+E:\С#\MyPaint2\MyPaint2\obj\Debug\MyPaint2.csproj.AssemblyReference.cache
+E:\С#\MyPaint2\MyPaint2\obj\Debug\MyPaint2.MyPaint.resources
+E:\С#\MyPaint2\MyPaint2\obj\Debug\MyPaint2.Properties.Resources.resources
+E:\С#\MyPaint2\MyPaint2\obj\Debug\MyPaint2.csproj.GenerateResource.cache
+E:\С#\MyPaint2\MyPaint2\obj\Debug\MyPaint2.csproj.CoreCompileInputs.cache
+E:\С#\MyPaint2\MyPaint2\obj\Debug\MyPaint2.exe
+E:\С#\MyPaint2\MyPaint2\obj\Debug\MyPaint2.pdb

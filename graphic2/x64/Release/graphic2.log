@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (graphic2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+E:\С#\graphic2\Source.cpp(66,31): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\С#\graphic2\Source.cpp(72,31): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\С#\graphic2\Source.cpp(105,43): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\С#\graphic2\Source.cpp(145,59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 163 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  graphic2.vcxproj -> E:\С#\x64\Release\Tac-Toe.exe
+  E:\С#\packages\SFML-cpp.redist.2.5.1.1\build\native\bin\x64\Release\openal32.dll
+  1 File(s) copied

@@ -1,0 +1,31 @@
+E:\Code\Visual Studio\Step\WindowsFormsTask3\bin\Debug\WindowsFormsTask3.exe.config
+E:\Code\Visual Studio\Step\WindowsFormsTask3\bin\Debug\WindowsFormsTask3.exe
+E:\Code\Visual Studio\Step\WindowsFormsTask3\bin\Debug\WindowsFormsTask3.pdb
+E:\Code\Visual Studio\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.Form1.resources
+E:\Code\Visual Studio\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.Properties.Resources.resources
+E:\Code\Visual Studio\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.csproj.GenerateResource.cache
+E:\Code\Visual Studio\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.exe
+E:\Code\Visual Studio\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.pdb
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask3\bin\Debug\WindowsFormsTask3.exe.config
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask3\bin\Debug\WindowsFormsTask3.exe
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask3\bin\Debug\WindowsFormsTask3.pdb
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.Form1.resources
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.Properties.Resources.resources
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.exe
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.pdb
+E:\С#\Step\Step\WindowsFormsTask3\bin\Debug\WindowsFormsTask3.exe.config
+E:\С#\Step\Step\WindowsFormsTask3\bin\Debug\WindowsFormsTask3.exe
+E:\С#\Step\Step\WindowsFormsTask3\bin\Debug\WindowsFormsTask3.pdb
+E:\С#\Step\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.csproj.AssemblyReference.cache
+E:\С#\Step\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.csproj.SuggestedBindingRedirects.cache
+E:\С#\Step\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.Form1.resources
+E:\С#\Step\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.Properties.Resources.resources
+E:\С#\Step\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.csproj.GenerateResource.cache
+E:\С#\Step\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.csproj.CoreCompileInputs.cache
+E:\С#\Step\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.exe
+E:\С#\Step\Step\WindowsFormsTask3\obj\Debug\WindowsFormsTask3.pdb

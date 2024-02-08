@@ -1,0 +1,10 @@
+E:\С#\GDILabirint\GDILabirint\bin\Debug\GDILabirint.exe.config
+E:\С#\GDILabirint\GDILabirint\bin\Debug\GDILabirint.exe
+E:\С#\GDILabirint\GDILabirint\bin\Debug\GDILabirint.pdb
+E:\С#\GDILabirint\GDILabirint\obj\Debug\GDILabirint.csproj.AssemblyReference.cache
+E:\С#\GDILabirint\GDILabirint\obj\Debug\GDILabirint.Labirint.resources
+E:\С#\GDILabirint\GDILabirint\obj\Debug\GDILabirint.Properties.Resources.resources
+E:\С#\GDILabirint\GDILabirint\obj\Debug\GDILabirint.csproj.GenerateResource.cache
+E:\С#\GDILabirint\GDILabirint\obj\Debug\GDILabirint.csproj.CoreCompileInputs.cache
+E:\С#\GDILabirint\GDILabirint\obj\Debug\GDILabirint.exe
+E:\С#\GDILabirint\GDILabirint\obj\Debug\GDILabirint.pdb

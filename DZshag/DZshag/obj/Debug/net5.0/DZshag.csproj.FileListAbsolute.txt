@@ -1,0 +1,16 @@
+E:\С#\DZshag\DZshag\bin\Debug\net5.0\DZshag.exe
+E:\С#\DZshag\DZshag\bin\Debug\net5.0\DZshag.deps.json
+E:\С#\DZshag\DZshag\bin\Debug\net5.0\DZshag.runtimeconfig.json
+E:\С#\DZshag\DZshag\bin\Debug\net5.0\DZshag.runtimeconfig.dev.json
+E:\С#\DZshag\DZshag\bin\Debug\net5.0\DZshag.dll
+E:\С#\DZshag\DZshag\bin\Debug\net5.0\ref\DZshag.dll
+E:\С#\DZshag\DZshag\bin\Debug\net5.0\DZshag.pdb
+E:\С#\DZshag\DZshag\obj\Debug\net5.0\DZshag.csproj.AssemblyReference.cache
+E:\С#\DZshag\DZshag\obj\Debug\net5.0\DZshag.GeneratedMSBuildEditorConfig.editorconfig
+E:\С#\DZshag\DZshag\obj\Debug\net5.0\DZshag.AssemblyInfoInputs.cache
+E:\С#\DZshag\DZshag\obj\Debug\net5.0\DZshag.AssemblyInfo.cs
+E:\С#\DZshag\DZshag\obj\Debug\net5.0\DZshag.csproj.CoreCompileInputs.cache
+E:\С#\DZshag\DZshag\obj\Debug\net5.0\DZshag.dll
+E:\С#\DZshag\DZshag\obj\Debug\net5.0\ref\DZshag.dll
+E:\С#\DZshag\DZshag\obj\Debug\net5.0\DZshag.pdb
+E:\С#\DZshag\DZshag\obj\Debug\net5.0\DZshag.genruntimeconfig.cache

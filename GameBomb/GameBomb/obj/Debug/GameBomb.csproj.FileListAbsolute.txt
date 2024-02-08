@@ -1,0 +1,10 @@
+E:\С#\GameBomb\GameBomb\bin\Debug\GameBomb.exe.config
+E:\С#\GameBomb\GameBomb\bin\Debug\GameBomb.exe
+E:\С#\GameBomb\GameBomb\bin\Debug\GameBomb.pdb
+E:\С#\GameBomb\GameBomb\obj\Debug\GameBomb.csproj.AssemblyReference.cache
+E:\С#\GameBomb\GameBomb\obj\Debug\GameBomb.Properties.Resources.resources
+E:\С#\GameBomb\GameBomb\obj\Debug\GameBomb.csproj.GenerateResource.cache
+E:\С#\GameBomb\GameBomb\obj\Debug\GameBomb.csproj.CoreCompileInputs.cache
+E:\С#\GameBomb\GameBomb\obj\Debug\GameBomb.exe
+E:\С#\GameBomb\GameBomb\obj\Debug\GameBomb.pdb
+E:\С#\GameBomb\GameBomb\obj\Debug\GameBomb.Game.resources

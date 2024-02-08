@@ -1,0 +1,10 @@
+E:\С#\ProgressBarReadFromFile\ProgressBarReadFromFile\bin\Debug\ProgressBarReadFromFile.exe.config
+E:\С#\ProgressBarReadFromFile\ProgressBarReadFromFile\bin\Debug\ProgressBarReadFromFile.exe
+E:\С#\ProgressBarReadFromFile\ProgressBarReadFromFile\bin\Debug\ProgressBarReadFromFile.pdb
+E:\С#\ProgressBarReadFromFile\ProgressBarReadFromFile\obj\Debug\ProgressBarReadFromFile.csproj.AssemblyReference.cache
+E:\С#\ProgressBarReadFromFile\ProgressBarReadFromFile\obj\Debug\ProgressBarReadFromFile.Properties.Resources.resources
+E:\С#\ProgressBarReadFromFile\ProgressBarReadFromFile\obj\Debug\ProgressBarReadFromFile.csproj.GenerateResource.cache
+E:\С#\ProgressBarReadFromFile\ProgressBarReadFromFile\obj\Debug\ProgressBarReadFromFile.csproj.CoreCompileInputs.cache
+E:\С#\ProgressBarReadFromFile\ProgressBarReadFromFile\obj\Debug\ProgressBarReadFromFile.exe
+E:\С#\ProgressBarReadFromFile\ProgressBarReadFromFile\obj\Debug\ProgressBarReadFromFile.pdb
+E:\С#\ProgressBarReadFromFile\ProgressBarReadFromFile\obj\Debug\ProgressBarReadFromFile.Reader.resources

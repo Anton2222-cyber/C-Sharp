@@ -1,0 +1,11 @@
+E:\С#\ViewTreeXML\ViewTreeXML\obj\Debug\ViewTreeXML.csproj.AssemblyReference.cache
+E:\С#\ViewTreeXML\ViewTreeXML\obj\Debug\ViewTreeXML.Properties.Resources.resources
+E:\С#\ViewTreeXML\ViewTreeXML\obj\Debug\ViewTreeXML.csproj.GenerateResource.cache
+E:\С#\ViewTreeXML\ViewTreeXML\obj\Debug\ViewTreeXML.csproj.CoreCompileInputs.cache
+E:\С#\ViewTreeXML\ViewTreeXML\bin\Debug\ViewTreeXML.exe.config
+E:\С#\ViewTreeXML\ViewTreeXML\bin\Debug\ViewTreeXML.exe
+E:\С#\ViewTreeXML\ViewTreeXML\bin\Debug\ViewTreeXML.pdb
+E:\С#\ViewTreeXML\ViewTreeXML\obj\Debug\ViewTreeXML.exe
+E:\С#\ViewTreeXML\ViewTreeXML\obj\Debug\ViewTreeXML.pdb
+E:\С#\ViewTreeXML\ViewTreeXML\obj\Debug\ViewTreeXML.Form1.resources
+E:\С#\ViewTreeXML\ViewTreeXML\obj\Debug\ViewTreeXML.csproj.SuggestedBindingRedirects.cache

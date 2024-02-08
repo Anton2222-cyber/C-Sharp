@@ -1,0 +1,16 @@
+E:\С#\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\RaceON.exe
+E:\С#\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\RaceON.deps.json
+E:\С#\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\RaceON.runtimeconfig.json
+E:\С#\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\RaceON.runtimeconfig.dev.json
+E:\С#\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\RaceON.dll
+E:\С#\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\RaceON.dll
+E:\С#\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\RaceON.pdb
+E:\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\RaceON.csproj.AssemblyReference.cache
+E:\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\RaceON.GeneratedMSBuildEditorConfig.editorconfig
+E:\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\RaceON.AssemblyInfoInputs.cache
+E:\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\RaceON.AssemblyInfo.cs
+E:\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\RaceON.csproj.CoreCompileInputs.cache
+E:\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\RaceON.dll
+E:\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\RaceON.dll
+E:\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\RaceON.pdb
+E:\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\RaceON.genruntimeconfig.cache

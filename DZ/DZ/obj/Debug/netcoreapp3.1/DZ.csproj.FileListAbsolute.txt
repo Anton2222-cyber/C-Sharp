@@ -1,0 +1,14 @@
+E:\С#\DZ\DZ\bin\Debug\netcoreapp3.1\DZ.exe
+E:\С#\DZ\DZ\bin\Debug\netcoreapp3.1\DZ.deps.json
+E:\С#\DZ\DZ\bin\Debug\netcoreapp3.1\DZ.runtimeconfig.json
+E:\С#\DZ\DZ\bin\Debug\netcoreapp3.1\DZ.runtimeconfig.dev.json
+E:\С#\DZ\DZ\bin\Debug\netcoreapp3.1\DZ.dll
+E:\С#\DZ\DZ\bin\Debug\netcoreapp3.1\DZ.pdb
+E:\С#\DZ\DZ\obj\Debug\netcoreapp3.1\DZ.csproj.AssemblyReference.cache
+E:\С#\DZ\DZ\obj\Debug\netcoreapp3.1\DZ.GeneratedMSBuildEditorConfig.editorconfig
+E:\С#\DZ\DZ\obj\Debug\netcoreapp3.1\DZ.AssemblyInfoInputs.cache
+E:\С#\DZ\DZ\obj\Debug\netcoreapp3.1\DZ.AssemblyInfo.cs
+E:\С#\DZ\DZ\obj\Debug\netcoreapp3.1\DZ.csproj.CoreCompileInputs.cache
+E:\С#\DZ\DZ\obj\Debug\netcoreapp3.1\DZ.dll
+E:\С#\DZ\DZ\obj\Debug\netcoreapp3.1\DZ.pdb
+E:\С#\DZ\DZ\obj\Debug\netcoreapp3.1\DZ.genruntimeconfig.cache

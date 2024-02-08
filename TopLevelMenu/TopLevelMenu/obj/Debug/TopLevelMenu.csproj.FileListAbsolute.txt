@@ -1,0 +1,10 @@
+E:\С#\TopLevelMenu\TopLevelMenu\bin\Debug\TopLevelMenu.exe.config
+E:\С#\TopLevelMenu\TopLevelMenu\bin\Debug\TopLevelMenu.exe
+E:\С#\TopLevelMenu\TopLevelMenu\bin\Debug\TopLevelMenu.pdb
+E:\С#\TopLevelMenu\TopLevelMenu\obj\Debug\TopLevelMenu.csproj.AssemblyReference.cache
+E:\С#\TopLevelMenu\TopLevelMenu\obj\Debug\TopLevelMenu.Form1.resources
+E:\С#\TopLevelMenu\TopLevelMenu\obj\Debug\TopLevelMenu.Properties.Resources.resources
+E:\С#\TopLevelMenu\TopLevelMenu\obj\Debug\TopLevelMenu.csproj.GenerateResource.cache
+E:\С#\TopLevelMenu\TopLevelMenu\obj\Debug\TopLevelMenu.csproj.CoreCompileInputs.cache
+E:\С#\TopLevelMenu\TopLevelMenu\obj\Debug\TopLevelMenu.exe
+E:\С#\TopLevelMenu\TopLevelMenu\obj\Debug\TopLevelMenu.pdb

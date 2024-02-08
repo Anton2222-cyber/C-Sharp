@@ -1,0 +1,45 @@
+E:\Code\Visual Studio\Step\WindowsFormsTask2\bin\Debug\WindowsFormsTask2.exe.config
+E:\Code\Visual Studio\Step\WindowsFormsTask2\bin\Debug\WindowsFormsTask2.exe
+E:\Code\Visual Studio\Step\WindowsFormsTask2\bin\Debug\WindowsFormsTask2.pdb
+E:\Code\Visual Studio\Step\WindowsFormsTask2\bin\Debug\Interop.WMPLib.dll
+E:\Code\Visual Studio\Step\WindowsFormsTask2\bin\Debug\AxInterop.WMPLib.dll
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Debug\Interop.WMPLib.dll
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Debug\AxInterop.WMPLib.dll
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.csproj.ResolveComReference.cache
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.Form1.resources
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.Properties.Resources.resources
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.csproj.GenerateResource.cache
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.exe
+E:\Code\Visual Studio\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.pdb
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask2\bin\Debug\WindowsFormsTask2.exe.config
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask2\bin\Debug\WindowsFormsTask2.exe
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask2\bin\Debug\WindowsFormsTask2.pdb
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask2\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask2\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.Form1.resources
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.Properties.Resources.resources
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.exe
+C:\Users\User\Desktop\Step\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.pdb
+E:\С#\Step\Step\WindowsFormsTask2\bin\Debug\WindowsFormsTask2.exe.config
+E:\С#\Step\Step\WindowsFormsTask2\bin\Debug\WindowsFormsTask2.exe
+E:\С#\Step\Step\WindowsFormsTask2\bin\Debug\WindowsFormsTask2.pdb
+E:\С#\Step\Step\WindowsFormsTask2\bin\Debug\Interop.WMPLib.dll
+E:\С#\Step\Step\WindowsFormsTask2\bin\Debug\AxInterop.WMPLib.dll
+E:\С#\Step\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.csproj.AssemblyReference.cache
+E:\С#\Step\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.csproj.SuggestedBindingRedirects.cache
+E:\С#\Step\Step\WindowsFormsTask2\obj\Debug\Interop.WMPLib.dll
+E:\С#\Step\Step\WindowsFormsTask2\obj\Debug\AxInterop.WMPLib.dll
+E:\С#\Step\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.csproj.ResolveComReference.cache
+E:\С#\Step\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.Form1.resources
+E:\С#\Step\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.Properties.Resources.resources
+E:\С#\Step\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.csproj.GenerateResource.cache
+E:\С#\Step\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.csproj.CoreCompileInputs.cache
+E:\С#\Step\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.exe
+E:\С#\Step\Step\WindowsFormsTask2\obj\Debug\WindowsFormsTask2.pdb

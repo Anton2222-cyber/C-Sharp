@@ -1,0 +1,14 @@
+E:\С#\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+E:\С#\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+E:\С#\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+E:\С#\Калькулятор\Калькулятор\bin\Debug\uk-UA\Калькулятор.resources.dll
+E:\С#\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.AssemblyReference.cache
+E:\С#\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.SuggestedBindingRedirects.cache
+E:\С#\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Kalkul.resources
+E:\С#\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+E:\С#\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Kalkul.uk-UA.resources
+E:\С#\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.cache
+E:\С#\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.CoreCompileInputs.cache
+E:\С#\Калькулятор\Калькулятор\obj\Debug\uk-UA\Калькулятор.resources.dll
+E:\С#\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+E:\С#\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb

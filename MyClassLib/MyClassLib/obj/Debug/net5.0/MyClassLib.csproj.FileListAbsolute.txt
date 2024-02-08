@@ -1,0 +1,11 @@
+E:\С#\MyClassLib\MyClassLib\bin\Debug\net5.0\MyClassLib.deps.json
+E:\С#\MyClassLib\MyClassLib\bin\Debug\net5.0\MyClassLib.dll
+E:\С#\MyClassLib\MyClassLib\bin\Debug\net5.0\ref\MyClassLib.dll
+E:\С#\MyClassLib\MyClassLib\bin\Debug\net5.0\MyClassLib.pdb
+E:\С#\MyClassLib\MyClassLib\obj\Debug\net5.0\MyClassLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\С#\MyClassLib\MyClassLib\obj\Debug\net5.0\MyClassLib.AssemblyInfoInputs.cache
+E:\С#\MyClassLib\MyClassLib\obj\Debug\net5.0\MyClassLib.AssemblyInfo.cs
+E:\С#\MyClassLib\MyClassLib\obj\Debug\net5.0\MyClassLib.csproj.CoreCompileInputs.cache
+E:\С#\MyClassLib\MyClassLib\obj\Debug\net5.0\MyClassLib.dll
+E:\С#\MyClassLib\MyClassLib\obj\Debug\net5.0\ref\MyClassLib.dll
+E:\С#\MyClassLib\MyClassLib\obj\Debug\net5.0\MyClassLib.pdb

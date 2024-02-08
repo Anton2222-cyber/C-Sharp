@@ -1,0 +1,10 @@
+E:\С#\ProgressBarMyTest\ProgressBarMyTest\bin\Debug\ProgressBarMyTest.exe.config
+E:\С#\ProgressBarMyTest\ProgressBarMyTest\bin\Debug\ProgressBarMyTest.exe
+E:\С#\ProgressBarMyTest\ProgressBarMyTest\bin\Debug\ProgressBarMyTest.pdb
+E:\С#\ProgressBarMyTest\ProgressBarMyTest\obj\Debug\ProgressBarMyTest.csproj.AssemblyReference.cache
+E:\С#\ProgressBarMyTest\ProgressBarMyTest\obj\Debug\ProgressBarMyTest.Test.resources
+E:\С#\ProgressBarMyTest\ProgressBarMyTest\obj\Debug\ProgressBarMyTest.Properties.Resources.resources
+E:\С#\ProgressBarMyTest\ProgressBarMyTest\obj\Debug\ProgressBarMyTest.csproj.GenerateResource.cache
+E:\С#\ProgressBarMyTest\ProgressBarMyTest\obj\Debug\ProgressBarMyTest.csproj.CoreCompileInputs.cache
+E:\С#\ProgressBarMyTest\ProgressBarMyTest\obj\Debug\ProgressBarMyTest.exe
+E:\С#\ProgressBarMyTest\ProgressBarMyTest\obj\Debug\ProgressBarMyTest.pdb

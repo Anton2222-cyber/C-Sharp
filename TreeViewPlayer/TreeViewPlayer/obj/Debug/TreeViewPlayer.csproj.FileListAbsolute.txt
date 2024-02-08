@@ -1,0 +1,15 @@
+E:\С#\TreeViewPlayer\TreeViewPlayer\bin\Debug\TreeViewPlayer.exe.config
+E:\С#\TreeViewPlayer\TreeViewPlayer\bin\Debug\TreeViewPlayer.exe
+E:\С#\TreeViewPlayer\TreeViewPlayer\bin\Debug\TreeViewPlayer.pdb
+E:\С#\TreeViewPlayer\TreeViewPlayer\bin\Debug\Interop.WMPLib.dll
+E:\С#\TreeViewPlayer\TreeViewPlayer\bin\Debug\AxInterop.WMPLib.dll
+E:\С#\TreeViewPlayer\TreeViewPlayer\obj\Debug\TreeViewPlayer.csproj.AssemblyReference.cache
+E:\С#\TreeViewPlayer\TreeViewPlayer\obj\Debug\Interop.WMPLib.dll
+E:\С#\TreeViewPlayer\TreeViewPlayer\obj\Debug\AxInterop.WMPLib.dll
+E:\С#\TreeViewPlayer\TreeViewPlayer\obj\Debug\TreeViewPlayer.csproj.ResolveComReference.cache
+E:\С#\TreeViewPlayer\TreeViewPlayer\obj\Debug\TreeViewPlayer.Properties.Resources.resources
+E:\С#\TreeViewPlayer\TreeViewPlayer\obj\Debug\TreeViewPlayer.csproj.GenerateResource.cache
+E:\С#\TreeViewPlayer\TreeViewPlayer\obj\Debug\TreeViewPlayer.csproj.CoreCompileInputs.cache
+E:\С#\TreeViewPlayer\TreeViewPlayer\obj\Debug\TreeViewPlayer.exe
+E:\С#\TreeViewPlayer\TreeViewPlayer\obj\Debug\TreeViewPlayer.pdb
+E:\С#\TreeViewPlayer\TreeViewPlayer\obj\Debug\TreeViewPlayer.Player.resources

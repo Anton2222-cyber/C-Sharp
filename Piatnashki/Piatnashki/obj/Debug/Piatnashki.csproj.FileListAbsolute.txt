@@ -1,0 +1,10 @@
+E:\С#\Piatnashki\Piatnashki\bin\Debug\Piatnashki.exe.config
+E:\С#\Piatnashki\Piatnashki\bin\Debug\Piatnashki.exe
+E:\С#\Piatnashki\Piatnashki\bin\Debug\Piatnashki.pdb
+E:\С#\Piatnashki\Piatnashki\obj\Debug\Piatnashki.csproj.AssemblyReference.cache
+E:\С#\Piatnashki\Piatnashki\obj\Debug\Piatnashki.Form1.resources
+E:\С#\Piatnashki\Piatnashki\obj\Debug\Piatnashki.Properties.Resources.resources
+E:\С#\Piatnashki\Piatnashki\obj\Debug\Piatnashki.csproj.GenerateResource.cache
+E:\С#\Piatnashki\Piatnashki\obj\Debug\Piatnashki.csproj.CoreCompileInputs.cache
+E:\С#\Piatnashki\Piatnashki\obj\Debug\Piatnashki.exe
+E:\С#\Piatnashki\Piatnashki\obj\Debug\Piatnashki.pdb

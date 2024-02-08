@@ -1,0 +1,4 @@
+E:\С#\WindowsFormsCalendar\WindowsFormsCalendar\obj\Debug\WindowsFormsCalendar.csproj.AssemblyReference.cache
+E:\С#\WindowsFormsCalendar\WindowsFormsCalendar\obj\Debug\WindowsFormsCalendar.Properties.Resources.resources
+E:\С#\WindowsFormsCalendar\WindowsFormsCalendar\obj\Debug\WindowsFormsCalendar.csproj.GenerateResource.cache
+E:\С#\WindowsFormsCalendar\WindowsFormsCalendar\obj\Debug\WindowsFormsCalendar.csproj.CoreCompileInputs.cache
